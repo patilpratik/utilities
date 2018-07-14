@@ -1,0 +1,9 @@
+Package: utilities
+Version: 1.0-1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: Pratik Patil <patil.pratik.r@gmail.com>
+Description: This is a collection of utilities useful for various purpose 
